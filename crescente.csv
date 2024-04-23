@@ -1,0 +1,6 @@
+tamanho,Quick sort recursivo randomizado,Merge sort interativo,Merge sort recursivo,Merge sort recursivo randomizado,Shell Sort [Baseline],Quick sort recursivo,Select sort recursivo,Select sort recursivo randomizado,Patience Sort,Bogo Sort
+10000,13,14,10,15,5,4581,6347,19734,8704,60002
+20000,27,29,27,39,14,23494,23244,78298,33021,60005
+30000,41,36,38,60,22,50273,53705,178489,73816,60011
+40000,57,49,51,77,31,89654,96618,320424,131880,60011
+50000,72,60,65,102,37,140059,153091,503883,208418,60015

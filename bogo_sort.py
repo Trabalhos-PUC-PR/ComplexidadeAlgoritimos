@@ -10,7 +10,7 @@ def is_sorted(x):
     return True
 
 
-def bogo_sort(x, timeout=3_000):
+def bogo_sort(x, timeout=2_000):
     random.shuffle(x)
     start = agora()
     while not is_sorted(x):
